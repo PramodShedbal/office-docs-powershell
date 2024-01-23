@@ -1,4 +1,4 @@
----
+-TransportRule - Switch doesn't work using the rule name, instead, we need to use the rule GUID. We need to make this change in this article.
 external help file: Microsoft.Exchange.ServerStatus-Help.xml
 online version: https://learn.microsoft.com/powershell/module/exchange/start-historicalsearch
 applicable: Exchange Online, Exchange Online Protection
